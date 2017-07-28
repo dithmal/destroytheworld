@@ -83,6 +83,7 @@
 				46FEFCAB1F2AD99C00E7005F /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		46FEFCAB1F2AD99C00E7005F /* Products */ = {
 			isa = PBXGroup;
